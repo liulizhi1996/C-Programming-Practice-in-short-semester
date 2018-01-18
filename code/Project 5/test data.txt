@@ -1,0 +1,7 @@
+Product no	product name
+DR100		juice
+DR209		coke cola
+FOOD302		bread
+VEG091B		tomato
+VEG091A		potato
+BK991M1		Intro. To Alg.
